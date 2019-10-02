@@ -1,4 +1,4 @@
-public class javakeerthi {
+public class java {
     public static void main(String[] args) {
         
         int first = 10;
